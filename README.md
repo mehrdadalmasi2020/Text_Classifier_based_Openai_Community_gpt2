@@ -19,7 +19,7 @@ You can access the dataset [here](https://huggingface.co/datasets/biglam/bnl_new
 ## Key Features
 
 - **GPT-2 Fine-tuning**: Fine-tune a pre-trained openai-community/gpt2 model on your custom text classification task.
-- **Multilingual Support**: Works seamlessly with datasets in French, German, English, and Luxembourgish.
+- **Multilingual Support**: Works seamlessly with datasets in French, German, and English.
 - **Comprehensive Metrics**: Evaluates the model using precision, recall, F1-score, and accuracy per class.
 - **GPU Acceleration**: Supports CUDA-enabled devices for faster training.
 
